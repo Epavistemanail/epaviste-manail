@@ -1,0 +1,25 @@
+VERSION FINALE — DESIGN PREMIUM — EPAVISTE MANAÏL
+
+Contenu :
+- Design haut de gamme sombre / doré
+- Responsive téléphone / tablette / ordinateur
+- Boutons d'appel direct
+- Bouton WhatsApp
+- Formulaire avec SMS prérempli
+- Sections services, avantages, contact et informations légales
+
+Coordonnées intégrées :
+Epaviste Manaïl 🚗
+Jimmy Helfrick
+SIRET : 523 956 571 00021
+180 avenue de Saint-Médard-en-Jalles, 33320 Eysines
+06 66 90 98 35
+
+Pour tester :
+Ouvrir index.html dans un navigateur.
+
+Pour mettre en ligne gratuitement :
+GitHub Pages, Netlify ou Cloudflare Pages peuvent héberger ces trois fichiers.
+
+
+Cette version reprend exactement le design premium noir et doré validé.
